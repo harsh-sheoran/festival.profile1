@@ -180,8 +180,8 @@
 }
 
 
-.pl47 {
-	padding-left: 47%;
+.pl46 {
+	padding-left: 46%;
 }
 
 
@@ -263,8 +263,8 @@
 }
 
 
-.pt172 {
-	padding-top: 172px;
+.pt170 {
+	padding-top: 170px;
 }
 
 
@@ -275,11 +275,7 @@
 }
 
 
-.box1 {
-	width: 20px;
-	height: 10px;
-	background-color: #01C8FF;
-}
+
 
 
 .gallery {
@@ -295,8 +291,8 @@
 	margin-right: auto;
 }
 
-.pl47 {
-	padding-left: 47%;
+.pl45 {
+	padding-left: 45%;
 }
 
 
@@ -304,6 +300,13 @@
 	margin-top: 47px;
 }
 
+.w-100 {
+	width: 100%;
+}
+
+.text-center {
+	text-align: center;
+}
 
 .box1 {
 	width: 100%;
@@ -520,6 +523,9 @@ nput {
 	margin-left: 10px;
 }
 
+.curser-pointer {
+	cursor: pointer;
+}
 
 .p-svg {
 	left: 50%;
@@ -568,9 +574,9 @@ nput {
 .service {
 	color: #FFF;
 	font-family: Poppins;
-	font-size: 12px;
+	font-size: 14px;
 	font-style: normal;
-	font-weight: 400;
+	font-weight: 700;
 	line-height: normal;
 }
 
